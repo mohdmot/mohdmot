@@ -16,7 +16,7 @@
 
 * Don't Ask Me Why i Didn't Public a CPP/JS repos.
 
-* Please Don't Look to My Old Repos ^_^
+* Please Don't Look at My Old Repos ^_^
 
 #
 
