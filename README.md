@@ -4,27 +4,19 @@
 
 ### i am Zaky
 
-* My Nickname is Zaky. 
+* My Nickname is ***Zaky***. 
 
 * Languages i Use :
 
-    - Python
+    - ***Python***
 
-    - JS
+    - ***JS***
 
-    - C++
+    - ***C++***
 
-* Don't Ask Me Why i Didn't Public a CPP/JS repos.
+* Don't Ask Me Why i Didn't Public a Many *CPP/JS* repos.
 
 * Please Don't Look at My Old Repos ^_^
-
-#
-
-### Social Media:
-
-* [IG](https://instagram.com/zaky1_mohammed)
-
-* [Twitter](https://twitter.com/mhmd_albkry)
 
 #
 
