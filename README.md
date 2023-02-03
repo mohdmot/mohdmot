@@ -1,28 +1,18 @@
-![](https://raw.githubusercontent.com/Zaky202/Zaky202/main/933afefe8abda7eb46286163b9b0319d.gif)
+<img height="200" style="display:inline;" src="https://raw.githubusercontent.com/Zaky202/Zaky202/main/avatar.png"></p>
 
-#
-
-### i am Zaky
-
-* My Nickname is ***Zaky***. 
+* Someone.
 
 * Languages i Use :
 
-    - ***Python***
+![](https://raw.githubusercontent.com/Zaky202/Zaky202/main/langs.png)
+* Don't ask me why i don't Public a Many *CPP/JS/PHP* repos, mabye soon?
 
-    - ***JS***
-
-    - ***C++***
-
-* Don't Ask Me Why i Didn't Public a Many *CPP/JS* repos.
-
-* Please Don't Look at My Old Repos ^_^
+* Please don't look at my old projects
 
 #
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaky202&theme=vision-friendly-dark)
-
 ![](https://github-readme-stats.vercel.app/api?username=Zaky202&show_icons=true&theme=vision-friendly-dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaky202&theme=vision-friendly-dark)
 
 <!--
 **Zaky202/Zaky202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
