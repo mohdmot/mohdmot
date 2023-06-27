@@ -1,4 +1,6 @@
+<p align='center'>
 <img height="200" style="display:inline;" src="https://raw.githubusercontent.com/Zaky202/Zaky202/main/avatar.png"></p>
+</p>
 
 * Someone.
 
