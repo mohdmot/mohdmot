@@ -43,7 +43,7 @@ Yemen
     <img src="https://img.shields.io/badge/hamadanime1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://twitter.com/mhmd_albkry" target="blank">
-    <img src="https://img.shields.io/twitter/follow/@mohmd_albkry?logo=twitter&style=for-the-badge">
+    <img src="https://img.shields.io/twitter/follow/mhmd_albkry?logo=twitter&style=for-the-badge">
   </a>
   <a href="https://www.instagram.com/z1.2d/">
     <img src="https://img.shields.io/badge/@z1.2d-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
