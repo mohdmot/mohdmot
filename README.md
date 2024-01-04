@@ -32,10 +32,13 @@ Yemen
   <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=Zaky202&show_icons=true&theme=vision-friendly-dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaky202&theme=vision-friendly-dark)
+![](https://github-readme-stats.vercel.app/api?username=mohdmot&show_icons=true&theme=vision-friendly-dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdmot&theme=vision-friendly-dark)
 
 <h1 align="center"> >> Contact Me</h1>
 <p align="center">
