@@ -1,55 +1,66 @@
-<h1 align="center"> >> Hi i'am Mohammed</h1>
+
+<h1 align="center">⚡ Mohammed Motahher</h1>
 <p align="center">
-<img src="https://i.pinimg.com/originals/29/12/98/29129842108c46684a26c427741db074.gif">
+  <img src="https://i.pinimg.com/originals/29/12/98/29129842108c46684a26c427741db074.gif" width="340">
 </p>
 
 ```sh
-zaky@DESKTOP-77CPO6N:~$ cat name.txt
-Mohammed Motahher
+$ whoami
+> Mohammed, 18 y/o • Developer • From Yemen
+````
 
-zaky@DESKTOP-77CPO6N:~$ cat age.txt
-18
 
-zaky@DESKTOP-77CPO6N:~$ cat nationality.txt
-Yemen
-```
-<h1 align="center"> >> Experience</h1>
+
+<h2 align="center">🔥 About Me</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-  <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+  I build things that *shouldn't* work… but somehow do.  
+  Obsessed with coding, weird experiments, AI, Arduino, servers—  
+  and basically anything that breaks the rules of what’s “normal”.  
+  <br><br>
+  Always learning. Always shipping. Always trying something crazy.
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=mohdmot&show_icons=true&theme=vision-friendly-dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdmot&theme=vision-friendly-dark)
+<h2 align="center">⚡ Tech Arsenal</h2>
 
-<h1 align="center"> >> Contact Me</h1>
 <p align="center">
-  <a href="mailto:hamadanime1@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/hamadanime1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://twitter.com/mhmd_albkry" target="blank">
-    <img src="https://img.shields.io/twitter/follow/mhmd_albkry?logo=twitter&style=for-the-badge">
-  </a>
-  <a href="https://www.instagram.com/z1.2d/">
-    <img src="https://img.shields.io/badge/@z1.2d-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://t.me/YYY9_I">
-    <img src="https://img.shields.io/badge/@YYY9_I-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,php,arduino,flask,html,css,js,markdown,ubuntu,vscode,github,numpy,pandas,sklearn&theme=dark">
+</p>
+
+
+
+<h2 align="center">🚀 Currently Cooking</h2>
+
+<p align="center">
+  • Building my own programming language ⚙️  (bored)
+  • Playing with AI + automation  
+  • Breaking stuff on purpose to understand it  
+  • Arduino & ESP8266 experiments  
+</p>
+
+
+<h2 align="center">📊 Stats</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohdmot&theme=tokyonight">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohdmot&theme=tokyonight">
+</p>
+
+
+
+<h2 align="center">📡 Connect With Me</h2>
+
+<p align="center">
+  <a href="mailto:hamadanime1@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
+  <a href="https://twitter.com/mhmd_albkry"><img src="https://skillicons.dev/icons?i=twitter"></a>
+  <a href="https://www.instagram.com/z1.2d/"><img src="https://skillicons.dev/icons?i=instagram"></a>
+  <a href="https://t.me/YYY9_I"><img src="https://skillicons.dev/icons?i=telegram"></a>
+</p>
+
+
+<p align="center">
+  <b>⚡ Building. Breaking. Learning. Repeating.</b>  
+  <br>
+  <i>— Not here to follow the rules… I'm here to rewrite them.</i>
 </p>
