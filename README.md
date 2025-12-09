@@ -8,7 +8,7 @@ zaky@DESKTOP-77CPO6N:~$ cat name.txt
 Mohammed Motahher
 
 zaky@DESKTOP-77CPO6N:~$ cat age.txt
-17
+18
 
 zaky@DESKTOP-77CPO6N:~$ cat nationality.txt
 Yemen
@@ -28,12 +28,10 @@ Yemen
   <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=mohdmot&show_icons=true&theme=vision-friendly-dark)
@@ -55,17 +53,3 @@ Yemen
     <img src="https://img.shields.io/badge/@YYY9_I-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
 </p>
-<!--
-**Zaky202/Zaky202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
