@@ -19,6 +19,8 @@ $ whoami
   and basically anything that breaks the rules of what’s “normal”.  
   <br><br>
   Always learning. Always shipping. Always trying something crazy.
+  <br>
+  More info about me in my <a href="https://mohdmot.github.io/">portfolio</a> :)
 </p>
 
 
