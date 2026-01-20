@@ -53,9 +53,7 @@ $ whoami
 
 <p align="center">
   <a href="mailto:hamadanime1@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
-  <a href="https://twitter.com/mhmd_albkry"><img src="https://skillicons.dev/icons?i=twitter"></a>
   <a href="https://www.instagram.com/z1.2d/"><img src="https://skillicons.dev/icons?i=instagram"></a>
-  <a href="https://t.me/YYY9_I"><img src="https://skillicons.dev/icons?i=telegram"></a>
 </p>
 
 
