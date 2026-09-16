@@ -6,7 +6,7 @@
 
 ```sh
 $ whoami
-> Mohammed, 18 y/o • Developer • From Yemen
+> Mohammed, 19 y/o • Developer • From Yemen
 ````
 
 
@@ -20,7 +20,7 @@ $ whoami
   <br><br>
   Always learning. Always shipping. Always trying something crazy.
   <br>
-  More info about me in my <a href="https://mohdmot.github.io/">portfolio</a> :)
+  More info about me in my <a href="https://mohdmot.com/">portfolio</a> :)
 </p>
 
 
